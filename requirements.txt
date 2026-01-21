@@ -5,7 +5,7 @@ dash>=2.15
 dash-core-components
 dash-html-components
 dash-table
-
+names
 numpy>=1.23
 pandas>=1.5
 networkx>=3.0
